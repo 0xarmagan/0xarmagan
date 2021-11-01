@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning DAO's, community building
 - 💞️ @1hiveTR @polygonhermeztr @harvestturkce @0xzkape
 -  Prev works;
--  📝Translate Tornado.Cash wiki and Tornado.Cash website
--  📝Translate sushi.com
--  📝Translate moola.market website and docs.moola.market
+-  📝Translation Tornado.Cash wiki and Tornado.Cash website
+-  📝Translation sushi.com
+-  📝Translation moola.market website and docs.moola.market
 
 - 📫 How to reach me Discord @armog
 
