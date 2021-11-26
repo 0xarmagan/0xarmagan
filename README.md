@@ -1,5 +1,5 @@
 - 👋 Hi, This is @0xarmagan
-- 👀 I’m interested in creating a shitposter, translating a blog, thinking a social media strategy, memeing, helping new community members navigate the ecosystem, finding new and ways to improve the discord experience
+- 👀 I’m interested in creating a shitposter, translating a blog, thinking a social media strategy, memeing, helping new community members navigate the ecosystem
 - 🌱 I’m currently learning DAO's, community building
 - 💞️ [@1hiveTR](https://twitter.com/1hiveTR), [@polygonhermeztr](https://twitter.com/polygonhermeztr), [@harvestturkce](https://twitter.com/HarvestTurkce), [zkApe](https://zkape.substack.com/)
 -  Prev works;
