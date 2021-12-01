@@ -9,7 +9,7 @@
 -  📝Translation [moola.market](https://moola.market/) website and [docs.moola.market](https://docs.moola.market/v/turkish)
 -  📝Translation [docs.mai.finance](https://docs.mai.finance) and [QiDao Community Guide](https://qidao-qimps.gitbook.io/mai-finance-tutorials/v/turkish/)
 
-- 📫 How to reach me Discord armog 🐝#3687
+- 📫 How to reach me Discord armog#3687
 
 <!---
 0xarmagan/0xarmagan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
