@@ -1,8 +1,10 @@
 - 👋 Hi, This is @0xarmagan
 - 👀 I’m interested in creating a shitposter, translating a blog, thinking a social media strategy, memeing, helping new community members navigate the ecosystem
-- 🌱 I’m currently learning DAO's, community building
-- 💞️ [@1hiveTR](https://twitter.com/1hiveTR), [@polygonhermeztr](https://twitter.com/polygonhermeztr), [@harvestturkce](https://twitter.com/HarvestTurkce), [zkApe](https://zkape.substack.com/)
--  Work in progress; 
+-  Currently learning DAO's, community building
+-  Works;
+- Turkish newsletter about zero knowledge [zkApe](https://zkape.substack.com/) for funding [zkApe Gitcoin](https://gitcoin.co/grants/3372/zkape-turkish-newsletter-about-zeroknowledge)
+- Content and community works; [@1hiveTR](https://twitter.com/1hiveTR), [@polygonhermeztr](https://twitter.com/polygonhermeztr), [@harvestturkce](https://twitter.com/HarvestTurkce), [zkApe](https://zkape.substack.com/)
+-  Ongoing works; 
 -  📝Translation [StakeDAO Academy](https://academy.stakedao.org/tag/tr/)
 -  📝Translation [Blackpool Blog](https://blog.blackpool.finance/tag/turkce/)
 -  Prev works;
