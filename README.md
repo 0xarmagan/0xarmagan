@@ -3,7 +3,7 @@
 -  Currently learning DAO's, community building
 -  Works;
 - Turkish newsletter about zero knowledge [zkApe](https://zkape.substack.com/) for funding [zkApe Gitcoin](https://gitcoin.co/grants/3372/zkape-turkish-newsletter-about-zeroknowledge)
-- Content and community works; [@1hiveTR](https://twitter.com/1hiveTR), [@polygonhermeztr](https://twitter.com/polygonhermeztr), [@harvestturkce](https://twitter.com/HarvestTurkce), [zkApe](https://zkape.substack.com/)
+- Content and community works; [@1hiveTR](https://twitter.com/1hiveTR), [@polygonhermeztr](https://twitter.com/polygonhermeztr), [@harvestturkce](https://twitter.com/HarvestTurkce),
 -  Ongoing works; 
 -  📝Translation [StakeDAO Academy](https://academy.stakedao.org/tag/tr/)
 -  📝Translation [Blackpool Blog](https://blog.blackpool.finance/tag/turkce/)
