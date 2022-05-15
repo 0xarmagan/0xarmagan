@@ -4,7 +4,7 @@
 ⚒  Works;
 - Turkish newsletter about zero knowledge [zkApe](https://zkape.substack.com/)
 - DAO fanzine [daoApe](https://mirror.xyz/0x4529921387f7b686fc9b0b80754d2b2983496eD2)
-- Content and community works; [Stake DAO TR](https://twitter.com/StakeDAOHQ_TR),[Gnosis Chain Türkiye] https://twitter.com/GnosisTurkiye and [1hiveTR](https://twitter.com/1hiveTR), 
+- Content and community works; [Stake DAO TR](https://twitter.com/StakeDAOHQ_TR),[Gnosis Chain Türkiye](https://twitter.com/GnosisTurkiye) and [1hiveTR](https://twitter.com/1hiveTR), 
 - Translation & Community building [StakeDAO Academy](https://academy.stakedao.org/tag/tr/)
 - Translation & Community building [Blackpool Blog](https://blog.blackpool.finance/tag/turkce/)
  
