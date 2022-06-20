@@ -1,5 +1,5 @@
 - Hi, This is @0xarmagan
-- I'm working on content production and ideas to help DAOs reach local people. Some of these works;  translation a blog, thinking a social media strategy, memeing, helping new community members navigate the ecosystem etc.
+- I'm working on content production and ideas to help DAOs reach more people. Some of these works;  translation a blog, thinking a social media strategy, memeing, helping new community members navigate the ecosystem etc.
 
 ⚒  Works;
 - Turkish newsletter about zero knowledge [zkApe](https://zkape.substack.com/)
