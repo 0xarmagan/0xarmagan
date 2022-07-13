@@ -1,15 +1,16 @@
-- Hi, This is @0xarmagan
-- I'm working on content production and ideas to help DAOs reach more people. Some of these works;  translation a blog, thinking a social media strategy, memeing, helping new community members navigate the ecosystem etc.
+- Hi, this is [Armagan](https://twitter.com/0xarmog)
+- I'm working on content production and ideas to help DAOs reach more people. Some of these works; content creation, thinking a social media strategy, memeing, helping new community members navigate the ecosystem etc.
 
 ⚒  Works;
+- Social Media Manager [Gnosis](https://gnosis.io)
 - Turkish newsletter about zero knowledge [zkApe](https://zkape.substack.com/)
 - DAO fanzine [daoApe](https://mirror.xyz/0x4529921387f7b686fc9b0b80754d2b2983496eD2)
-- Content and community works; [Stake DAO TR](https://twitter.com/StakeDAOHQ_TR),[Gnosis Chain Türkiye](https://twitter.com/GnosisTurkiye) and [1hiveTR](https://twitter.com/1hiveTR), 
+- Content and community contribution; [Stake DAO TR](https://twitter.com/StakeDAOHQ_TR), [Gnosis Chain Türkiye](https://twitter.com/GnosisTurkiye) and [1hiveTR](https://twitter.com/1hiveTR), 
 - Translation & Community building [StakeDAO Academy](https://academy.stakedao.org/tag/tr/)
 - Translation & Community building [Blackpool Blog](https://blog.blackpool.finance/tag/turkce/)
  
 🔧 Prev works;
-- Content Creation [@polygonhermeztr](https://twitter.com/polygonhermeztr), [@harvestturkce](https://twitter.com/HarvestTurkce)
+- Content Creation [Polygonhermeztr](https://twitter.com/polygonhermeztr), [Harvestturkce](https://twitter.com/HarvestTurkce)
 - Translation [Tornado.Cash wiki](https://docs.tornado.cash/v/tu/) and [Tornado.Cash website](https://tornadocash.eth.link/)
 - Translation [sushi.com](https://app.sushi.com/tr/swap)
 - Translation [moola.market](https://moola.market/) website and [docs.moola.market](https://docs.moola.market/v/turkish)
