@@ -10,11 +10,12 @@
 - Translation & Community building [Blackpool Blog](https://blog.blackpool.finance/tag/turkce/)
  
 🔧 Prev works;
-- Content Creation [Polygonhermeztr](https://twitter.com/polygonhermeztr), [Harvestturkce](https://twitter.com/HarvestTurkce)
 - Translation [Tornado.Cash wiki](https://docs.tornado.cash/v/tu/) and [Tornado.Cash website](https://tornadocash.eth.link/)
+- Translation Giveth Docs [giveth.io](https://docs.giveth.io/tr/)
 - Translation [sushi.com](https://app.sushi.com/tr/swap)
 - Translation [moola.market](https://moola.market/) website and [docs.moola.market](https://docs.moola.market/v/turkish)
 - Translation [docs.mai.finance](https://docs.mai.finance) and [QiDao Community Guide](https://qidao-qimps.gitbook.io/mai-finance-tutorials/v/turkish/)
+- Content Creation [Polygonhermeztr](https://twitter.com/polygonhermeztr), [Harvestturkce](https://twitter.com/HarvestTurkce)
 
 - 📫 How to reach me Discord armog#3687
 
