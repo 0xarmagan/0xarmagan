@@ -2,7 +2,7 @@
 - I'm working on content production and ideas to help DAOs reach more people. Some of these works; content creation, create a social media strategy, memeing, helping new community members navigate the ecosystem etc.
 
 ⚒  Works;
-- Social Media Manager [Gnosis](https://gnosis.io)
+- Social Media Manager [Gnosis Chain](https://gnosischain.com)
 - Turkish newsletter about zero knowledge [zkApe](https://zkape.substack.com/)
 - DAO fanzine [daoApe](https://mirror.xyz/0x4529921387f7b686fc9b0b80754d2b2983496eD2)
 - Content and community contribution; [Stake DAO TR](https://twitter.com/StakeDAOHQ_TR), [Gnosis Chain Türkiye](https://twitter.com/GnosisTurkiye) and [1hiveTR](https://twitter.com/1hiveTR), 
