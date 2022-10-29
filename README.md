@@ -1,5 +1,5 @@
 - Hi, this is [Armagan](https://twitter.com/0xarmagan)
-- I'm working on content production and ideas to help DAOs reach more people. Some of these works; content creation, create a social media strategy, memeing, helping new community members navigate the ecosystem etc.
+- I'm working on content production and ideas to help DAOs reach more people. Some of these works; content creation, creating a social media strategy, memeing, helping new community members navigate the ecosystem etc.
 
 ⚒  Works;
 - Social Media Manager [Gnosis Chain](https://gnosischain.com)
