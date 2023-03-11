@@ -3,6 +3,7 @@
 
 ⚒  Works;
 - Social Media Manager [Gnosis Chain](https://gnosis.io), [GnosisDAO](https://gnosis.io), [DappCon](https://www.dappcon.io/)
+- [Rhino Review - Ethereum Staking Journal](https://rhinoreview.substack.com/)
 - Turkish newsletter about zero knowledge [zkApe](https://zkape.substack.com/)
 - DAO fanzine [daoApe](https://mirror.xyz/0x4529921387f7b686fc9b0b80754d2b2983496eD2)
 - Content and community contribution; [Stake DAO TR](https://twitter.com/StakeDAOHQ_TR), [Gnosis Chain Türkiye](https://twitter.com/GnosisTurkiye) and [1hiveTR](https://twitter.com/1hiveTR), 
