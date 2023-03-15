@@ -8,7 +8,7 @@
 - DAO fanzine [daoApe](https://mirror.xyz/0x4529921387f7b686fc9b0b80754d2b2983496eD2)
 - Content and community contribution; [Stake DAO TR](https://twitter.com/StakeDAOHQ_TR), [Gnosis Chain Türkiye](https://twitter.com/GnosisTurkiye) and [1hiveTR](https://twitter.com/1hiveTR), 
 - Translation & Community building [StakeDAO Academy](https://academy.stakedao.org/tag/tr/)
-- Translation & Community building [RektTurkish Edition](https://rekt.news/tr/)
+- Translation & Community building [Rekt News Turkish Edition](https://rekt.news/tr/)
 
 
 - 📫 How to reach me TG: @armaganercan
