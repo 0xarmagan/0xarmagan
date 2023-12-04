@@ -1,8 +1,8 @@
 - Hi, this is [Armagan](https://twitter.com/0xarmagan)
-- I'm working on content production and ideas to help DAOs reach more people. Some of these works; content creation, creating a social media strategy, memeing, helping new community members navigate the ecosystem etc.
+- I am creating tool and conducting communication activities to onboard more solo stakers in the Gnosis Chain.
 
 ⚒  Works;
-- Social Media Manager [Gnosis Chain](https://gnosis.io), [GnosisDAO](https://gnosis.io), [DappCon](https://www.dappcon.io/)
+- Validator Comms Lead [Gnosis Chain](https://gnosis.io), [GnosisDAO](https://gnosis.io), [DappCon](https://www.dappcon.io/)
 - [Rhino Review - Ethereum Staking Journal](https://rhinoreview.substack.com/)
 - 📫 How to reach me TG: @armaganercan
 
