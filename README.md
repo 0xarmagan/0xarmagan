@@ -1,4 +1,4 @@
-- Hi, this is [Armagan](https://twitter.com/0xarmagan)
+- Hi, this is [Armagan](https://twitter.com/dirtynodes)
 - I am creating tool and conducting communication activities to onboard more solo stakers in the Gnosis Chain.
 
 ⚒  Works;
