@@ -2,7 +2,7 @@
 - I am creating tool and conducting communication activities to onboard more solo stakers in the Gnosis Chain.
 
 ⚒  Works;
-- Validator Comms Lead [Gnosis Chain](https://gnosis.io), Core contributor at [GnosisDAO](https://gnosis.io) and [DappCon](https://www.dappcon.io/)
+- Validator Lead [Gnosis Chain](https://gnosis.io), Core contributor at [GnosisDAO](https://gnosis.io) and [DappCon](https://www.dappcon.io/)
 - [Rhino Review - Ethereum Staking Journal](https://rhinoreview.substack.com/)
 - 📫 How to reach me TG: @armaganercan
 
