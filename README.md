@@ -1,5 +1,5 @@
 - Hi, this is [Armagan](https://twitter.com/dirtynodes)
-- I am creating tools and conducting communication activities to onboard more node operators into the Gnosis Chain.
+- I am creating tools and conducting communication activities to onboard more communities into the Circles.
 
 ⚒  Works;
 - Validator Relation Manager [Gnosis Chain](https://gnosis.io), Core contributor at [GnosisDAO](https://gnosis.io) and [DappCon](https://www.dappcon.io/)
