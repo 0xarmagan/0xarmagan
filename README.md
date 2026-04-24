@@ -1,8 +1,8 @@
-- Hi, this is [Armagan](https://twitter.com/dirtynodes)
-- I am creating tools and conducting communication activities to onboard more communities into the Circles.
+- Hi, this is Armagan
+- I am creating tools and conducting communication activities to onboard more partners into the [Ethereum Economic Zone](https://eez.io/) and leading [DappCon](https://www.dappcon.io/)
 
-⚒  Works;
-- Validator Relation Manager [Gnosis Chain](https://gnosis.io), Core contributor at [GnosisDAO](https://gnosis.io) and [DappCon](https://www.dappcon.io/)
+⚒  Previous Works;
+- Validator Relation Manager [Gnosis Chain](https://gnosis.io), Core contributor at [GnosisDAO](https://gnosis.io)
 - [Rhino Review - Ethereum Staking Journal](https://rhinoreview.substack.com/)
 - 📫 How to reach me TG: @armaganercan
 
