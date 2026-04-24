@@ -4,7 +4,9 @@
 ⚒  Previous Works;
 - Validator Relation Manager [Gnosis Chain](https://gnosis.io), Core contributor at [GnosisDAO](https://gnosis.io)
 - [Rhino Review - Ethereum Staking Journal](https://rhinoreview.substack.com/)
-- 📫 How to reach me TG: @armaganercan
+- 📫 How to reach me
+  - TG: @armagangnosis
+  - Signal ace.156
 
 <!---
 0xarmagan/0xarmagan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
